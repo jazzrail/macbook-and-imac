@@ -4,3 +4,6 @@ Then I want to open this on my iMac, make changes and push to GitHub.
 Will this work?
 
 Second commit.
+
+Now I am on the iMac.  I just uploaded GC's Batty to Netlify.
+Just going to try and oush this to GitHub
