@@ -6,4 +6,8 @@ Will this work?
 Second commit.
 
 Now I am on the iMac.  I just uploaded GC's Batty to Netlify.
-Just going to try and oush this to GitHub
+Just going to try and push this to GitHub
+
+Yes, it did work.  It asked for my user.  The password - this is the key I generated.  Note, when pasting in it doesn't display, but it's there.
+
+Don't forget, in order to push you need this: git push -u origin main
